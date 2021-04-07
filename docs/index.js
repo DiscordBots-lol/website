@@ -3,9 +3,9 @@ const path = require("path");
 const app = express();
 
 app.set('view engine', 'ejs');
-app.set("views", path.join(__dirname + "/views"));
+app.set("views", path.join(__dirname + "/pages"));
 
-app.get("/docs", (req, res) => {
+app.get("/docs", (req, res) => { // redirects to the new docs
   res.redirect("/docs/api")
 
 app.get("/docs/api", (req, res) => {
