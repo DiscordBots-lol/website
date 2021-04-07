@@ -1,6 +1,7 @@
 # Discord Bots
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/DiscordBots-lol/website/blob/master/LICENSE)
 [![Snyk vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/DiscordBots-lol/website?logo=snyk)](https://snyk.io/test/github/DiscordBots-lol/website)
+[![GitHub issues](https://img.shields.io/github/issues/DiscordBots-lol/website)](https://github.com/DiscordBots-lol/website/issues)
 
 Licensed under the ``AGPL-3.0`` license. Here's the [LICENSE](https://github.com/DiscordBots-lol/website/blob/main/LICENSE) file.
 
