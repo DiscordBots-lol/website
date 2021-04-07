@@ -1,0 +1,17 @@
+{
+  "short_name": "DBL",
+  "name": "Discord Bots",
+  "description": "Search the best bots on Discord Bots list.",
+  "icons": [
+    {
+      "src": "/images/icon.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#23272a"
+}
