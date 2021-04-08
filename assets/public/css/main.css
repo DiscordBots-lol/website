@@ -1,0 +1,64 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #2c2f33;
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+    margin: -0px 0 0 0;
+}
+
+.header {
+    overflow: hidden;
+    display: block;
+    background-color: #a2d9ff;
+}
+
+.container {
+    margin: 60px;
+}
+
+.title {
+    display: block;
+    line-height: 1.2;
+    color: #23272a;
+    font-size: 48px;
+}
+
+.subtitle {
+    display: inline-block;
+    line-height: 1.5;
+    color: #444444;
+    font-size: 20px;
+}
+
+#search {
+    font-family: 'Circular Std Book', sans-serif;
+    color: #495057;
+    height: 60px;
+    font-size: 18px;
+}
+
+.searchbar:focus {
+    transition: all .7s;
+    outline: 0;
+    box-shadow: 0 30px 40px 5px rgb(0 0 0 / 18%);
+    color: #2c2f33;
+}
+
+input {
+    width: 35%;
+    color: #495057;
+    background: #fff;
+    border-color: #a2d9ff;
+    border-top: #a2d9ff;
+    border-left: #a2d9ff;
+    border-radius: 6px;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: 1.5;
+    text-align: start;
+    overflow: visible;
+    border: 0;
+    cursor: text;
+    appearance: auto;
+}
